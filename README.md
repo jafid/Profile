@@ -15,7 +15,7 @@ I am a passionate Enterprise Blockchain Solution Architect and Developer with a 
 - Asset Management: My experience extends to projects like the Funds and Asset Tracker, where blockchain technology is used to streamline asset tracking and management.
 
 🌐 Connect with Me:
-Let's connect and collaborate on innovative blockchain solutions! Feel free to reach out to me here on GitHub, or you can find me on [LinkedIn](https://www.linkedin.com/in/jaafar-idris-104461175 for more extensive discussions.
+Let's connect and collaborate on innovative blockchain solutions! Feel free to reach out to me here on GitHub, or you can find me onLinkedIn - https://www.linkedin.com/in/jaafar-idris-104461175 for more extensive discussions.
 
 📚 Continuous Learning:
 Blockchain technology is constantly evolving, and I am committed to staying at the forefront of this dynamic field. I actively engage in research, attend conferences, and contribute to open-source projects.
