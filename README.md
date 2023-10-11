@@ -5,7 +5,7 @@
 💼 Specialized in Hyperledger Fabric
 
 🚀 About Me:
-I am a passionate Enterprise Blockchain Solution Architect and Developer with a strong specialization in Hyperledger Fabric. With 5 years of experience in the field, I have successfully led and contributed to several enterprise blockchain projects, making a tangible impact in various industries.
+I am a passionate Enterprise Blockchain Solution Architect and Developer Advocate with a strong specialization in Hyperledger Fabric. With 5 years of experience in the field, I have successfully led and contributed to several enterprise blockchain projects, making a tangible impact in various industries.
 
 🔨 My Expertise:
 - Hyperledger Fabric: I have a deep understanding of Hyperledger Fabric and have worked on numerous projects utilizing this powerful blockchain framework.
