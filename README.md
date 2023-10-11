@@ -1,7 +1,7 @@
 # Profile
 👋 Hello, I'm Jaafar Idris!
 
-🔗 Enterprise Blockchain Solution Architect and Developer
+🔗 Enterprise Blockchain Solution Architect and Developer Advocate
 💼 Specialized in Hyperledger Fabric
 
 🚀 About Me:
